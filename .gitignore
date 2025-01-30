@@ -1,0 +1,11 @@
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore node-related files (if you used npm for dependencies)
+node_modules/
+package-lock.json
+yarn.lock
